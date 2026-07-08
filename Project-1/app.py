@@ -115,7 +115,13 @@ Analyze Google Play Store apps using interactive charts and insights.
 # -----------------------------
 # Load Dataset
 # -----------------------------
-df = pd.read_csv("googleplaystore_v2.csv")
+from pathlib import Path
+import pandas as pd
+
+BASE_DIR = Path(__file__).resolve().parent
+csv_file = BASE_DIR / "googleplaystore_v2.csv"
+
+df = pd.read_csv(csv_file)
 
 # -----------------------------
 # Dataset
