@@ -5,3 +5,5 @@ Project-2 https://aimlsummer-training-jjutntzap9v9nh3sglxwn7.streamlit.app/
 Project-3 https://outliers2-v3po5ox9bywe83pmkrmhss.streamlit.app/
 
 Project-4 https://logistic-573ggsvxthxxnzcgnmctkf.streamlit.app/
+
+Project-5 https://male-female-classifier-ckjykjkda92csek7ffzk6u.streamlit.app/
