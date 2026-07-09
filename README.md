@@ -1,4 +1,4 @@
-Project-1 https://aimlsummer-training-f2pzoq6g4gvdmchvmrmskv.streamlit.app/#dataset-preview
+Project-1 https://datavisualization-x2oirkjw9txhvshnqkxjm3.streamlit.app/
 
 Project-2 https://aimlsummer-training-jjutntzap9v9nh3sglxwn7.streamlit.app/
 
